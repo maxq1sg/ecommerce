@@ -1,0 +1,22 @@
+.product__title{
+    text-align: center;
+}
+.product__title-link{
+    font-size: 2em;
+    color: darkmagenta;
+}
+.product__title-link:hover{
+    text-decoration: none;
+}
+.product__image{
+    /* margin-top: 30px; */
+}
+.product__image img{
+    height: 200px;
+    object-fit: cover;
+    display: block;
+    margin: 0 auto;
+}
+.product__price{
+    margin-top: 10px;
+}

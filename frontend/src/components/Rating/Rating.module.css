@@ -1,0 +1,15 @@
+.rating__section{
+    font-size: 1.1em;
+}
+.rating__stars i{
+    margin-top: 15px;
+    color: orange;
+}
+.rating__stars:hover i{
+    color: red;
+}
+
+
+.rating__reviews{
+    padding: 0 10px;
+}

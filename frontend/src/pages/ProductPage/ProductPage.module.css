@@ -1,0 +1,18 @@
+.wrapper {
+  padding: 20px;
+  background: #eee;
+  border-radius: 10px;
+}
+
+.submit-wrapper {
+  position: relative;
+}
+
+.wrapper-into{
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.review-wrapper{
+  margin-top: 40px;
+}
